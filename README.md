@@ -1,6 +1,8 @@
 # adtest
 Two-sample Anderson-Darling equality-of-distributions test Use adtest With STATA 19
 
+https://www.youtube.com/watch?v=5i5-hlJWI3w
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
